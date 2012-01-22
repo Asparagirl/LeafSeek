@@ -1,10 +1,10 @@
 LeafSeek
 ========
 
-- Welcome to LeafSeek
+* Welcome to LeafSeek *
 (Set Your Records Free!)
 
-LeafSeek is a new tool that helps you turn your genealogical or historical record collections into searchable online databases. Combine multiple datasets of different types — such as birth, marriage, and military records — into one unified searchable website. Find inter-connections in your data that you never noticed before.
+LeafSeek is a new tool that helps you turn your genealogical or historical record collections into searchable online databases. Combine multiple datasets of different types -- such as birth, marriage, and military records -- into one unified searchable website. Find inter-connections in your data that you never noticed before.
 
 With great features like built-in geo-spatial searches, pop-up Google Maps, Beider-Morse Phonetic Matching, name synonyms, and language localization, LeafSeek can help you turn your spreadsheets of names and dates into a full-featured genealogy search engine. It’s designed for researchers and genealogy societies alike.
 
@@ -12,6 +12,13 @@ Oh, and one more thing: LeafSeek is free and open source. No strings attached.
 
 LeafSeek is based on Apache Solr (version 3.6 pre-release) for the back-end code, and the Solarium Project (version 2.3), PHP, XHTML, CSS, and jQuery for the front-end code.
 
+
+- LeafSeek home page, blog, and rudimentary documentation
+
+Check out http://www.leafseek.com/
+
+
+- For more information
 
 Home page for Apache Solr:
 https://lucene.apache.org/solr/
@@ -24,6 +31,13 @@ http://www.solarium-project.org/
 
 LeafSeek version 1.0 was released on Saturday, January 21, 2012.  Comments, feature requests, bug reports, and code additions are most welcome!
 
+
 - License
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
+
+
+- Author
+
+LeafSeek was put together and is maintained by Brooke Schreier Ganz (Twitter: @Asparagirl).
+
