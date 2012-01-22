@@ -1,0 +1,641 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The All-Galicia Database\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-21 17:25-0800\n"
+"PO-Revision-Date: 2012-01-21 17:26-0800\n"
+"Last-Translator: Brooke Schreier Ganz <asparagirl@dca.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Bookmarks: 2,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:363
+#: index.php:483
+msgid "read instructions and notes"
+msgstr ""
+
+#: index.php:363
+msgid "hide instructions and notes"
+msgstr ""
+
+#: index.php:391
+msgid "Enter your search"
+msgstr ""
+
+#: index.php:396
+#: _includes/sidebar_current_filters.php:27
+msgid "Given Name"
+msgstr ""
+
+#: index.php:397
+msgid "Enter Given Name (optional)"
+msgstr ""
+
+#: index.php:399
+#: _includes/sidebar_current_filters.php:19
+msgid "Surname"
+msgstr ""
+
+#: index.php:400
+msgid "Enter Surname (optional)"
+msgstr ""
+
+#: index.php:405
+msgid "Within"
+msgstr ""
+
+#: index.php:407
+#: index.php:421
+#: index.php:464
+msgid "optional"
+msgstr ""
+
+#: index.php:419
+msgid "kilometers of"
+msgstr ""
+
+#: index.php:462
+msgid "Sort results by"
+msgstr ""
+
+#: index.php:465
+msgid "Record Type (A to Z), then Record Year (oldest to newest)"
+msgstr ""
+
+#: index.php:466
+msgid "Record Type (Z to A), then Record Year (oldest to newest)"
+msgstr ""
+
+#: index.php:467
+msgid "Record Year (oldest to newest), then Record Type (A to Z)"
+msgstr ""
+
+#: index.php:468
+msgid "Record Year (newest to oldest), then Record Type (A to Z)"
+msgstr ""
+
+#: index.php:474
+msgid "Search"
+msgstr ""
+
+#: index.php:479
+#: _includes/welcome_message.php:7
+msgid "Notes about search"
+msgstr ""
+
+#: map_of_all_records.php:180
+msgid "Towns and locations represented in this search engine"
+msgstr ""
+
+#: _includes/header.php:28
+msgid "Skip to the search box"
+msgstr ""
+
+#: _includes/header.php:29
+msgid "Skip to the sidebar"
+msgstr ""
+
+#: _includes/header.php:30
+msgid "Skip to the results listing"
+msgstr ""
+
+#: _includes/header.php:31
+msgid "Skip to the footer"
+msgstr ""
+
+#: _includes/instructions.php:3
+msgid "<strong>All fields are optional.</strong> You can search by given name, by surname, or a combination of both.  You can also limit your search results to a specific geographic area.  And you can choose to sort your results by different criteria, if you like."
+msgstr ""
+
+#: _includes/instructions.php:4
+msgid "<strong>Expand and contract your records.</strong>  Click on the blue plus sign next to each of your search results to show all of the information about a given record, not just the primary names associated with it."
+msgstr ""
+
+#: _includes/instructions.php:5
+msgid "<strong>Use facets to narrow your search results.</strong>  You can click on the links in the sidebar to focus your search on a particular \"facet\", or sub-set of your search results, such as record type, town, year, etc.  The facets will also help give you an overview of all information associated with your search, such as the other surnames commonly attached to the surname you queried, the towns often associated with the surname, etc."
+msgstr ""
+
+#: _includes/instructions.php:6
+msgid "<strong>You can use asterisks to do wildcard searches.</strong> For example, entering <span class=\"search-example\">SCHR*</span> in the surname field will show all surnames beginning with that string, such as SCHRANK, SCHREYER, etc.  You can also use a wildcard (or even <strong>multiple wildcards!</strong>) in the middle or the end of a name, such as <span class=\"search-example\">*WITZ</span> or <span class=\"search-example\">K*H*N</span>.  There is no minimum number of letters that you have to enter.  Wildcards will work in the Given Name field too."
+msgstr ""
+
+#: _includes/instructions.php:7
+msgid "<strong>Some common synonyms and kinnui for Given Names have been enabled.</strong>  For example, searching for <span class=\"search-example\">Rebecca</span> will also turn up matches for names like Rivka, Becky, etc.  A search for <span class=\"search-example\">Hersch</span> will find spelling variants like Hers and Hirsch, but also Tvi and Zvi. <a href=\"http://www.jewishgen.org/InfoFiles/GivenNames/\">Learn more about Jewish given names and kinnui here.</a>"
+msgstr ""
+
+#: _includes/instructions.php:8
+msgid "<strong>Map that town!</strong> If your record results show a modern-day town name underlined in light blue, click that link to show a helpful pop-up map of the area."
+msgstr ""
+
+#: _includes/instructions.php:9
+msgid "<strong>Soundalike / Soundex / Phonetic searching is not enabled yet.</strong>  <a href=\"http://stevemorse.org/phonetics/bmpm.htm\">Beider-Morse Phonetic Matching (BMPM)</a> is coming soon!  In the meantime, please use wildcards to look for variant spellings (or misspellings) of your names."
+msgstr ""
+
+#: _includes/navigation_buttons.php:4
+msgid "Results found"
+msgstr ""
+
+#: _includes/navigation_buttons.php:6
+msgid "showing"
+msgstr ""
+
+#: _includes/navigation_buttons.php:8
+msgid "to"
+msgstr ""
+
+#: _includes/navigation_buttons.php:38
+msgid "next 40 results"
+msgstr ""
+
+#: _includes/navigation_buttons.php:60
+msgid "previous 40 results"
+msgstr ""
+
+#: _includes/news.php:3
+msgid "Latest News &amp; Corrections"
+msgstr ""
+
+#: _includes/news.php:12
+msgid "New databases added"
+msgstr ""
+
+#: _includes/news.php:13
+msgid "Major updates and fixes to existing databases"
+msgstr ""
+
+#: _includes/news.php:14
+msgid "Major updates to existing databases"
+msgstr ""
+
+#: _includes/news.php:15
+msgid "Minor updates and fixes to existing databases"
+msgstr ""
+
+#: _includes/news.php:16
+msgid "Minor updates to existing databases"
+msgstr ""
+
+#: _includes/news.php:17
+msgid "New features added"
+msgstr ""
+
+#: _includes/results_birth.php:6
+#: _includes/results_birth.php:33
+#: _includes/results_birth.php:38
+#: _includes/results_tax.php:6
+msgid "no given name"
+msgstr ""
+
+#: _includes/results_birth.php:11
+#: _includes/results_tax.php:11
+msgid "no surname"
+msgstr ""
+
+#: _includes/results_birth.php:22
+msgid "father's name not recorded"
+msgstr ""
+
+#: _includes/results_birth.php:27
+msgid "mother's name not recorded"
+msgstr ""
+
+#: _includes/results_birth.php:44
+msgid "son"
+msgstr ""
+
+#: _includes/results_birth.php:46
+msgid "daughter"
+msgstr ""
+
+#: _includes/results_birth.php:48
+#: _includes/results_tax.php:19
+#: _includes/results_tax.php:20
+msgid "child"
+msgstr ""
+
+#: _includes/results_birth.php:53
+#: _includes/results_tax.php:25
+msgid "Click to expand this record"
+msgstr ""
+
+#: _includes/results_birth.php:58
+#: _includes/results_tax.php:33
+#: _includes/results_tax.php:47
+msgid "of"
+msgstr ""
+
+#: _includes/results_birth.php:94
+msgid "Year of Birth"
+msgstr ""
+
+#: _includes/results_birth.php:99
+msgid "Date of Birth"
+msgstr ""
+
+#: _includes/results_birth.php:104
+msgid "Year of Registration of Birth"
+msgstr ""
+
+#: _includes/results_birth.php:109
+msgid "Sex"
+msgstr ""
+
+#: _includes/results_birth.php:114
+msgid "Age"
+msgstr ""
+
+#: _includes/results_birth.php:118
+#: _includes/results_tax.php:64
+msgid "Town"
+msgstr ""
+
+#: _includes/results_birth.php:120
+#: _includes/results_tax.php:66
+msgid "now"
+msgstr ""
+
+#: _includes/results_birth.php:124
+msgid "Town of Birth"
+msgstr ""
+
+#: _includes/results_birth.php:129
+msgid "House Number"
+msgstr ""
+
+#: _includes/results_birth.php:135
+msgid "Congregational Family Number"
+msgstr ""
+
+#: _includes/results_birth.php:140
+msgid "Father's Town"
+msgstr ""
+
+#: _includes/results_birth.php:145
+msgid "Mother's Town"
+msgstr ""
+
+#: _includes/results_birth.php:150
+msgid "Mother's Father's Given Name"
+msgstr ""
+
+#: _includes/results_birth.php:155
+msgid "Maternal Grandfather's Given Name"
+msgstr ""
+
+#: _includes/results_birth.php:160
+msgid "Mother's Father's Surname"
+msgstr ""
+
+#: _includes/results_birth.php:165
+msgid "Maternal Grandfather's Surname"
+msgstr ""
+
+#: _includes/results_birth.php:170
+msgid "Mother's Mother's Given Name"
+msgstr ""
+
+#: _includes/results_birth.php:175
+msgid "Maternal Grandmother's Given Name"
+msgstr ""
+
+#: _includes/results_birth.php:180
+msgid "Mother's Mother's Surname"
+msgstr ""
+
+#: _includes/results_birth.php:185
+msgid "Maternal Grandmother's Surname"
+msgstr ""
+
+#: _includes/results_birth.php:190
+msgid "Mother's Parents' Town"
+msgstr ""
+
+#: _includes/results_birth.php:195
+msgid "Maternal Grandparents' Town"
+msgstr ""
+
+#: _includes/results_birth.php:200
+msgid "Paternal Grandparents' Town"
+msgstr ""
+
+#: _includes/results_birth.php:205
+msgid "Other Town(s)"
+msgstr ""
+
+#: _includes/results_birth.php:210
+msgid "Father's Occupation (original Polish)"
+msgstr ""
+
+#: _includes/results_birth.php:215
+msgid "Father's Occupation (English translation)"
+msgstr ""
+
+#: _includes/results_birth.php:220
+msgid "Comments"
+msgstr ""
+
+#: _includes/results_birth.php:225
+msgid "Notes"
+msgstr ""
+
+#: _includes/results_tax.php:45
+msgid "spouse"
+msgstr ""
+
+#: _includes/results_tax.php:61
+#: _includes/sidebar_current_filters.php:51
+msgid "Year"
+msgstr ""
+
+#: _includes/results_tax.php:70
+msgid "Town of Residence"
+msgstr ""
+
+#: _includes/results_tax.php:75
+msgid "Comments)"
+msgstr ""
+
+#: _includes/sidebar.php:13
+msgid "Record Types"
+msgstr ""
+
+#: _includes/sidebar.php:21
+msgid "Birth"
+msgstr ""
+
+#: _includes/sidebar.php:22
+msgid "Burial"
+msgstr ""
+
+#: _includes/sidebar.php:23
+msgid "Census"
+msgstr ""
+
+#: _includes/sidebar.php:24
+msgid "Charity"
+msgstr ""
+
+#: _includes/sidebar.php:25
+msgid "Criminal"
+msgstr ""
+
+#: _includes/sidebar.php:26
+msgid "Death"
+msgstr ""
+
+#: _includes/sidebar.php:27
+msgid "Deed"
+msgstr ""
+
+#: _includes/sidebar.php:28
+msgid "Divorce"
+msgstr ""
+
+#: _includes/sidebar.php:29
+msgid "Emigration"
+msgstr ""
+
+#: _includes/sidebar.php:30
+msgid "Holocaust"
+msgstr ""
+
+#: _includes/sidebar.php:31
+msgid "Landsmanschaften"
+msgstr ""
+
+#: _includes/sidebar.php:32
+msgid "Immigration"
+msgstr ""
+
+#: _includes/sidebar.php:33
+msgid "Marriage"
+msgstr ""
+
+#: _includes/sidebar.php:34
+msgid "Military"
+msgstr ""
+
+#: _includes/sidebar.php:35
+msgid "Newspaper"
+msgstr ""
+
+#: _includes/sidebar.php:36
+msgid "Organization"
+msgstr ""
+
+#: _includes/sidebar.php:37
+msgid "Permit"
+msgstr ""
+
+#: _includes/sidebar.php:38
+msgid "Phonebook"
+msgstr ""
+
+#: _includes/sidebar.php:39
+msgid "Pogrom"
+msgstr ""
+
+#: _includes/sidebar.php:40
+msgid "Political"
+msgstr ""
+
+#: _includes/sidebar.php:41
+msgid "Property"
+msgstr ""
+
+#: _includes/sidebar.php:42
+msgid "Religion"
+msgstr ""
+
+#: _includes/sidebar.php:43
+msgid "School"
+msgstr ""
+
+#: _includes/sidebar.php:44
+msgid "Tax"
+msgstr ""
+
+#: _includes/sidebar.php:45
+msgid "Union"
+msgstr ""
+
+#: _includes/sidebar.php:46
+msgid "University"
+msgstr ""
+
+#: _includes/sidebar.php:47
+msgid "Voter"
+msgstr ""
+
+#: _includes/sidebar.php:48
+msgid "War"
+msgstr ""
+
+#: _includes/sidebar.php:49
+msgid "Will"
+msgstr ""
+
+#: _includes/sidebar.php:50
+msgid "Yearbook"
+msgstr ""
+
+#: _includes/sidebar.php:54
+msgid "Add filter for Record Type"
+msgstr ""
+
+#: _includes/sidebar.php:66
+msgid "Top Surnames"
+msgstr ""
+
+#: _includes/sidebar.php:72
+msgid "Add filter for Surname"
+msgstr ""
+
+#: _includes/sidebar.php:78
+msgid "Top Given Names"
+msgstr ""
+
+#: _includes/sidebar.php:84
+msgid "Add filter for Given Name"
+msgstr ""
+
+#: _includes/sidebar.php:90
+msgid "Primary Locations"
+msgstr ""
+
+#: _includes/sidebar.php:99
+msgid "Add filter for Primary Location"
+msgstr ""
+
+#: _includes/sidebar.php:106
+#: _includes/sidebar_current_filters.php:43
+msgid "All Locations"
+msgstr ""
+
+#: _includes/sidebar.php:115
+msgid "Add filter for All Locations"
+msgstr ""
+
+#: _includes/sidebar.php:122
+msgid "Years"
+msgstr ""
+
+#: _includes/sidebar.php:131
+msgid "Add filter for Year"
+msgstr ""
+
+#: _includes/sidebar.php:139
+#: _includes/sidebar_current_filters.php:3
+msgid "Record Sources"
+msgstr ""
+
+#: _includes/sidebar.php:145
+msgid "Add filter for Record Source"
+msgstr ""
+
+#: _includes/sidebar.php:151
+msgid "Record Repositories"
+msgstr ""
+
+#: _includes/sidebar.php:157
+msgid "Add filter for Record Repository"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:9
+msgid "Remove the filter for Record Type"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:11
+msgid "Record Type"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:17
+msgid "Remove the filter for Surname"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:25
+msgid "Remove the filter for Given Name"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:33
+msgid "Remove the filter for Primary Location"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:35
+msgid "Primary Location"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:41
+msgid "Remove the filter for All Locations"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:49
+msgid "Remove the filter for Year"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:58
+msgid "Remove the filter for Record Source"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:60
+msgid "Record Source"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:67
+msgid "Remove the filter for Record Repository"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:69
+msgid "Record Repository"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:75
+msgid "Remove the filter for Geographic Limits"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:77
+msgid "Geographic Limits"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:86
+msgid "Remove the filter for Record Sort"
+msgstr ""
+
+#: _includes/sidebar_current_filters.php:88
+msgid "Sort by"
+msgstr ""
+
+#: _includes/welcome_message.php:3
+msgid "Welcome!"
+msgstr ""
+
+#: _includes/welcome_message.php:10
+msgid "Upcoming record additions"
+msgstr ""
+
+#: _includes/welcome_message.php:11
+msgid "More records are being added to this database on an ongoing basis, so check back soon for updates!"
+msgstr ""
+
+#: _includes/welcome_message.php:11
+msgid "Planned upcoming record additions include"
+msgstr ""
+
+#: _includes/welcome_message.php:14
+msgid "...and more!"
+msgstr ""
+
+#: _includes/welcome_message.php:16
+msgid "We also welcome submissions of new data sets."
+msgstr ""
+
+#: _includes/welcome_message.php:18
+msgid "Upcoming site features"
+msgstr ""
+

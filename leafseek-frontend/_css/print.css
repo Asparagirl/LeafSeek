@@ -1,0 +1,110 @@
+
+/* PRINT STYLES */
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+	margin:0;
+	padding:0;
+	font-size:12px;
+	*font-size:small;
+	font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+
+}
+table { 
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+td { 
+	vertical-align: top;
+}
+strong {
+	font-weight:bold;
+}
+
+
+
+h1 {
+	font-size:26px !important;
+	font-weight:bold;
+}
+h2 {
+	font-size:20px;
+	font-weight:bold;
+}
+h3 {
+	font-size:18px;
+	font-weight:bold;
+}
+
+
+
+#header {
+	margin-bottom:15px;
+}
+#header h1 a {
+	text-decoration:none;
+	color:#000;
+}
+
+
+
+#socialmedia, #news, .screenreader, #search, #sidebar, .navigation, .result .result-map, #footer ul {
+	display:none;
+}
+#sidebar #filters-current, #sidebar #filters-current h2, #sidebar #filters-current ul, #sidebar #filters-current ul li {
+	display:block !important;
+}
+.navigation p {
+	margin:10px 0;
+	padding:0;
+	float:left;
+	font-style:italic;
+	display:block !important;
+}
+
+
+
+.result {
+	margin:0;
+	padding:10px 0;
+	border-bottom:1px solid #999;
+}
+.result .result-header, .result .result-body {
+	margin-bottom:10px;
+}
+.result .result-header h4 {
+	margin:0 15px 0 0;
+	font-weight:bold;
+	float:right;
+	position:relative;
+	top:-20px;
+}
+.result .result-body table {
+	margin:0;
+	padding:0;
+	border:0;
+}
+.result .result-body table tr th {
+	padding-right:10px;
+	text-align:right;
+	font-weight:normal;
+}
+.result .result-body table tr td.database-notes {
+	padding-top:20px;
+}
+
+
+
+#footer {
+  margin-top:20px;
+}
+
+
+

@@ -1,0 +1,104 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+
+# Common Polish-Ukrainian and Ashkenazi Jewish given name synonyms, nicknames, and kinnui
+# Originally compiled by Brooke Schreier Ganz (asparagirl@dca.net)
+# for use in the All Galicia Database (http://search.geshergalicia.org/)
+# and distributed as part of the LeafSeek open source software
+
+aaron,aron,ahron,aharon
+abraham,avraham,abram,avram,abraam,avraam,abe,abrah,abrahm,abra,abr
+alexander,aleksander,alex,sander,sandor,sender,sendor,zuskind,ziskind,suskind
+akiva,akiwa,kiva,kiwa,kiwe,kiewe,ekiwe
+asher,osher,usher,oszer,uszer,anshel,anschel,anchil,anschil,lemel
+avigdor,awigdor,vigdor,wigdor
+baruch,boruch,bendet,bendit,benedet,benedit,benedict
+beila,beile,bella
+benjamin,ben,beniamin,benyamin,binyamin,bennie,benny,beny,beni,beno.benno,benjaman,wolf,wulf,vulf,zev,zeev
+ber,beer,berish,berisch,berisz,berl,berel,beril,beryl,burke,birch,bear,dov,issachar,isachar,isocher,socher,sucher,yisachar,yisocher
+chaim,chajm,chajem,haim,hajm,hyman
+chana,hana,hanna,hannah,ana,ann,anna,annie,henia,henya,hene,chone,heny,hanny,hani,channe,channa
+chaskel,haskel,khaskel
+chava,hava,khava,chawa,hawa,khawa
+chaya,chaia,chaie,chaje,haya,haie,haja,khaya,khaye,khaja
+clara,klara
+david,dawid,dave,davis
+deborah,debora,dwora,dwoira,devora,dvora,dwoyra,dvoira,dvoyra,dwojre,dora,dwere,dwore
+eidel,eidle,eidl,etel,ethel,ettel,eida,eide
+eli,elie,elias,eliasz,elijasz,eljasz,elio
+elchanan,elkan,elkon
+ephraim,efraim,efroim,froim,efram,efrom,fish,fishl,fishel,fischel
+emanuel,emmanuel,manuel,manel
+esther,ester,estera,eszter,hadassah,hadassa,hadas,hadasse,hadasa
+eva,ewa
+feivel,fayvel,faywel,feiwel,feivish,fayvish,feyvush,faibish,feibisch,feibel,feibus,feibush,faybus,faybush,uri,schraga,schrayga,shraga,shrayga
+gershon,gerschon,gerson
+golda,golde,goldie
+gustaf,gustaw
+hanoch,enoch,khanoch,zundel
+hersh,herc,hers,hersz,hirsh,hirs,hirsch,herschel,tvi,zvi,zwi,zwy,zve
+isaac,issac,isac,isak,isaak,ike,yitzhak,yitzak,itzak,itzhak,izak,izaak,eisig,asig,itzig
+israel,isreal,izrael,yisrael,yisroel,srul,sroel,strul,sztrul,szruel,esriel,izzy,izy,isidore,isidor,izydor
+jacob,jacov,jacub,yaakov,yakov,yacov,yaacov,jankel,jankiel,janko,jack
+joel,soel,yoel
+jonah,jona,jone,yonah,yona,yone
+joseph,josef,jozef,joe,josyf,joszko,yosef,yoseph,josel,jossel,yosel,yossel
+joshua,josua,yehoshua,falk,falik
+judah,juda,yudah,yuda,yehuda,yehudah,jehuda,jehudah,loew,loeb,lob,leib,leibl,leibel,layb,laybl,laybel,leibus,lejbus,leon,leo,lewis,louis,aryeh,arieh,arie,ariel,ari,ary
+julius,juliusz
+lazar,leizer,layzer,leyzer,leiser,leizor,leisor,lezor,elieazer,eliazer,eliezar,eliezer,lipa,lipe,lipman,lippman,lipmann,leon,leo,lewis,louis
+leah,lea,leya,leye,leia,leie,laja
+lena,lina,line
+lipman,lippman,lipmann,lipa
+ludwig,ludwik,ludvig,ludvik
+malka,malke,mali,mollie,molly,malie,machla,machle,machli,machlie,malli,mallie
+max,maks
+majer,maier,mayer,meyer,meier,meir
+menachem,menahem,mendel,mendl,manush,mane
+michael,mikayel,mikail
+miriam,miryam,mirjam,maria,mariam,marjam,maryam,marja,minnie,minie,mary,marie,mina,minna,mini
+mordechai,marko,mordka,mordko,mortka,mortko,mordche,marcus,markus,mordcho,motl,motel,mottel,marx
+moses,moshe,moishe,moyshe,moises,mojzesz,moszek,morris,moris
+natham,nachum,nuchem,nuchim,nachem,naum,natan,nattan,nochem,nochim
+naftali,naftula
+nechama,nechame,nehama,nehame,necha,neche,niche,nekhama,nekhame
+oscar,oskar
+osias,osiasz,ozjasz
+pesach,peisach,pejsach
+pessel,pessie
+pinkas,pinkus,pinchas,pinchus
+rachel,rachl,ruchel,ruchl,ruchla,rachela,rechel,rochel.rochl,ray,rae
+rebecca,rebeka,rivka,riwka,rivca,rywka,rywke,becky,beckie,beki,becki,beky
+reuben,ruben,rubin
+rosa,roza,royza,rojza,rozalia,rosalia,reise,reisa,rayza,raisa,reisie,rosie,rosy,rozie,rozy,roslyn,rozlyn
+samson,simson,shimson,shimshim,simschon
+samuel,sam,schmuel,shmuel,schmil,shmil
+sara,sarah,sora,sura,sure,sadie
+schmaje,shmaje
+sigmund,sigmunt,zygmund,zygmunt
+sima,sime,szime,simi
+simcha,simche,simka,simke,simkha
+shaya,shaye,ishaya,yeshayahu,schaja,shaja,szaje,schija,schaya,schaje
+shoshana,shoshanna,sosa,sose,szasze,sosi,sosie,sossze,sosze,sosche,schosche,susche
+sholem,scholem,schulim,shulim,schulem,shulem,meschulem,meschulam
+simon,symon,shaman,szymon,seimon,seiman,simeon
+solomon,shlomo,schloma,salamon,salomon,salo,zalmen,zalman,zalmon,salam
+toba,tova,tobah,tova,tove,tovah,taube,tauba,taubel,tuvia,toviya,tobia,tobias,toby,tobi
+tzipporah,tziporah,tzippora,tzipora,tzipe,zipporah,zippora,ziporah,zipora,sziporah,szipora,feige,feiga,fayge,fayge
+victor,wiktor
+vladyslaw,vladyslav,wladyslaw
+yenta,jenta,yente,jente,yentl
+yetta,jetta,yette,jette,yetti,jetti,yita,jita,ita,itta,ida,etta,etka
+zelig,selig,zelik
+zissel,zisel,sissel,sisel,zisele,sisele

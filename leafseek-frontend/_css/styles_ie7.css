@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#wrapper, #footer {
+	-webkit-box-shadow: 0px 0px 10px 5px rgba(100, 100, 100, 0.25);
+	-moz-box-shadow: 0px 0px 10px 5px rgba(100, 100, 100, 0.25);
+	box-shadow: 0px 0px 10px 5px rgba(100, 100, 100, 0.25);
+	behavior:url(/_css/PIE.htc);
+}
+
+#search form label {
+	font-size:1em;
+}
+#search .search-names {
+	margin-right:20px;
+	width:180px;
+}
+#search form input.search-givenname, #search form input.search-surname {
+	font-size:0.8em;
+	width:150px;
+}
+#search form input.button {
+	padding:5px 0;
+}
+
+
+.box {
+	height: expression( this.scrollHeight > 199 ? "200px" : "auto" ); /* sets max-height for IE */
+	overflow:auto;
+	overflow-x:hidden;
+}
+
+
+
+.navigation .navigation-buttons input.button {
+	padding:5px 0;
+}
+
+
+
+.result .result-header h3 {
+	width:430px;
+}
+.result .result-header h3 .result-expand {
+	background:none !important;
+	-pie-background:none !important;
+}
+.result .result-header h3 .result-expand .result-expand-plus {
+	height:24px !important;
+	width:24px !important;
+	background:none;
+	-pie-background:none;
+	background:#3580b6 url(../_images/icons/icon_plus_24x24.png) top left no-repeat;
+	display:block;
+}
+.result .result-header h3 .result-expand .result-expand-minus {
+	height:24px !important;
+	width:24px !important;
+	background:none;
+	-pie-background:none;
+	background:#3580b6 url(../_images/icons/icon_minus_24x24.png) top left no-repeat;
+	display:block;
+}
+
+
+
+
+#footer {
+	margin-top:30px;
+	padding-top:30px;
+}

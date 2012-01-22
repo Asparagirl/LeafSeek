@@ -1,0 +1,61 @@
+<dataConfig>
+  <dataSource name="Sample databases for LeafSeek"
+              type="JdbcDataSource" 
+              driver="com.mysql.jdbc.Driver"
+              url="jdbc:mysql://mysql.leafseek.com/leafseek_sampledata" 
+              user="leafseek_user" 
+              password="123456"/>
+  <document>
+    <entity name="LeafSeek-Sample-Data-Anytown-1920-Taxes" 
+            transformer="TemplateTransformer,DateFormatTransformer"
+            pk="id"
+            query="SELECT * FROM anytown_1920_taxes">
+        <!-- We have to set these fields by hand here, since they're not in the database -->
+        <field column="Town" template="Anytown" />
+        <field column="Year" template="1920" />
+        <field column="record_id" template="LeafSeek-Sample-Data-Anytown-1920-Taxes-${LeafSeek-Sample-Data-Anytown-1920-Taxes.id}" />
+        <field column="record_type" template="tax" />
+        <field column="record_source" template="Anytown Tax List (1920)" />
+        <field column="record_location" template="Anytown, California, USA" />
+        <field column="record_latitude" template="38.555556" />
+        <field column="record_longitude" template="-121.468889" />
+        <field column="record_latlong" template="38.555556,-121.468889" />
+        <field column="record_date" template="${LeafSeek-Sample-Data-Anytown-1920-Taxes.Year}" dateTimeFormat="yyyy" />
+        <field column="record_repository" template="Anytown City Hall" />
+        <field column="record_addition" template="20 January 2012" />
+        <field column="record_addition_date" template="${LeafSeek-Sample-Data-Anytown-1920-Taxes.record_addition}" dateTimeFormat="d MMMMM yyyy" />
+    </entity>
+    <entity name="LeafSeek-Sample-Data-Anytown-1915-Births" 
+            transformer="TemplateTransformer,DateFormatTransformer"
+            pk="id"
+            query="SELECT * FROM anytown_1915_births">
+        <field column="record_id" template="LeafSeek-Sample-Data-Anytown-1915-Births-${LeafSeek-Sample-Data-Anytown-1915-Births.id}" />
+        <field column="record_type" template="birth" />
+        <field column="record_source" template="Anytown Birth Records (1915)" />
+        <field column="record_location" template="Anytown, California, USA" />
+        <field column="record_latitude" template="38.555556" />
+        <field column="record_longitude" template="-121.468889" />
+        <field column="record_latlong" template="38.555556,-121.468889" />
+        <field column="record_date" template="${LeafSeek-Sample-Data-Anytown-1915-Births.Year}" dateTimeFormat="yyyy" />
+        <field column="record_repository" template="Anytown City Hall" />
+        <field column="record_addition" template="10 January 2012" />
+        <field column="record_addition_date" template="${LeafSeek-Sample-Data-Anytown-1915-Births.record_addition}" dateTimeFormat="d MMMMM yyyy" />
+    </entity>
+    <entity name="LeafSeek-Sample-Data-Anytown-1877-Births" 
+            transformer="TemplateTransformer,DateFormatTransformer"
+            pk="id"
+            query="SELECT * FROM anytown_1877_births">
+        <field column="record_id" template="LeafSeek-Sample-Data-Anytown-1877-Births-${LeafSeek-Sample-Data-Anytown-1877-Births.id}" />
+        <field column="record_type" template="birth" />
+        <field column="record_source" template="Anytown Birth Records (1877)" />
+        <field column="record_location" template="Anytown, California, USA" />
+        <field column="record_latitude" template="38.555556" />
+        <field column="record_longitude" template="-121.468889" />
+        <field column="record_latlong" template="38.555556,-121.468889" />
+        <field column="record_date" template="${LeafSeek-Sample-Data-Anytown-1877-Births.Year}" dateTimeFormat="yyyy" />
+        <field column="record_repository" template="First United Church of Anytown" />
+        <field column="record_addition" template="09 January 2012" />
+        <field column="record_addition_date" template="${LeafSeek-Sample-Data-Anytown-1877-Births.record_addition}" dateTimeFormat="d MMMMM yyyy" />
+    </entity>
+  </document>
+</dataConfig>

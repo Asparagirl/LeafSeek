@@ -1,0 +1,71 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+
+# Common American (mostly Anglo-Saxon) given name synonyms and nicknames
+# Originally compiled by Brooke Schreier Ganz (asparagirl@dca.net)
+# and distributed as part of the LeafSeek open source software
+
+bell,bella,belle,arabelle,anabelle,isabel,isabella,mirabel,rosabel
+bess,bessie,bessy,beth,bette,bettie,betty,betsy,betsey,bitsy,elizabeth,elisabeth,elise,eliza,liz,lizzie,lizzy,lisa,liza,lise,lizbeth,lisbeth
+bob,bobby,robert,rob,robbie,robby,robin
+bobbi,bobbie,roberta
+bridey,brie,bridget
+carrie,carry,caroline,charlotte
+cindy,cynthia,cinthia,lucinda
+daisy,margaret
+delia,adelia,adele,cordelia
+dode,dody,dorothy,theodore
+dora,dorothy,eudora,theodora
+ed,eddie,eddy,edgar,edmund,edward,edwin,edwina
+effie,effy,euphemia,evelyn
+greta,margaret,margaretha
+ella,ellie,eleanor,elenora
+fannie,fanny,frances
+frankie,frances,francis,franklin
+genie,eugenia,eugenie
+ginger,ginny,ginnie,virginia
+hal,harold,henry,harry,hank
+hattie,harriet,harriett,harriette
+hettie,esther,henrietta,hester
+jack,john,johnnie,johnny
+jamie,james,jameson,jim,jimmy
+jenny,jennie,jane,janet,jean,jeanne,jeanette,jennett
+kate,katie,katy,kay,kit,kitty,katherine
+lena,angelina,helena,magdalena,paulina,selena
+lucy,lucie,lucinda
+madge,maggie,maggy,midge,margaret
+mamie,may,mary
+marty,martie,mattie,martha
+meg,megan,margaret
+millie,milly,amelia,mildred
+moll,mollie,molly
+nell,nellie,nelly,eleanor,elenora,ellen,helen
+nora,elenore,elenora,honora,honoria
+ollie,olive,olivia,oliver
+pat,patsy,patty,pattie,patricia,patience
+peg,peggy,margaret
+penny,penelope
+polly,pollie,mary,paula
+rich,richy,richie,rick,richard,dick
+sadie,sally,sallie,sarah
+sam,sammy,sammie,samuel,samson,samantha
+sukie,susan,susanna,susannah
+tad,theodore
+ted,teddy,edward,theodore
+theo,theodore
+tilly,temperance
+tillie,matilda,mathilda
+tina,christina
+trina,catherine,katherine,catarina,katarina
+winnie,winefred,winifred
